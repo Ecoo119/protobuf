@@ -1,5 +1,5 @@
 name: Protobuf Janitor
-
+[![Protobuf Janitor](https://github.com/protocolbuffers/protobuf/actions/workflows/janitor.yml/badge.svg?branch=main&event=discussion)](https://github.com/protocolbuffers/protobuf/actions/workflows/janitor.yml)
 on:
   schedule:
     # Run daily at 10 AM UTC (2 AM PDT)
